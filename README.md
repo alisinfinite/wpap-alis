@@ -1,5 +1,5 @@
 # wpap-alis
-Alis's shortcode mod for the WordPress ActivityPub plugin.
+[Alis](https://alis.me)'s shortcode mod for the WordPress ActivityPub plugin.
 
 ## Installation
 Upload the file to `/wp-content/plugins/wpap-alis`. Modify as required.
